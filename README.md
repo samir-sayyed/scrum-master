@@ -17,7 +17,7 @@ Scrum Master is an Android app developed using Jetpack Compose that allows you t
 
 To run the Scrum Master app on your local machine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/scrum-master.git`
+1. Clone the repository: `https://github.com/samir-sayyed/scrum-master.git`
 2. Open the project in Android Studio.
 3. Build and run the app on an Android device or emulator.
 4. Start managing your scrum meetings efficiently!
